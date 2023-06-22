@@ -1,0 +1,19 @@
+ h1{
+    color: red;
+    font-family: Papyrus;
+}
+h2{
+    color:blue;
+    font-family: comic sans;
+}
+
+p{
+    color:slategrey;
+    font-family: Helvetica standard;
+    font-style: italic;
+    text-transform:uppercase;
+}
+
+body{
+    background-color: black;
+} 
